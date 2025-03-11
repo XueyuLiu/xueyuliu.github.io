@@ -30,7 +30,7 @@ Xueyu Liu's research focuses on computer vision and medical data analytics. His 
 # 📜 Research Area
 - **Computer Vision:** 
 
-Foundation model, Meta-learning, Weakly supervised learning, few-shot learning
+Foundation model, Meta-learning, Weakly supervised learning, Visual prompt learning
 
 - **Medical data analytics:**
 
