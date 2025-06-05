@@ -19,7 +19,8 @@ redirect_from:
 
 # **About Me**
 
-Xueyu Liu is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology. His advisor is Professor Ming Li. He has published over ten papers in SCI journals and renowned conferences, including CVPR and MICCAI.
+
+Xueyu Liu is currently a Tenure-track Associate Professor and Master's Supervisor at the College of Artificial Intelligence, Taiyuan University of Technology, China. He has published over ten papers in SCI journals and renowned conferences, including CVPR and MedIA.
 
  
 
@@ -38,9 +39,10 @@ Pathological image analysis, Multimodal data analysis
 
 
 # 💻 Research Experiences
-- 2014.09 - 2018.07: B.ENG. in Software Engineering, Taiyuan University of Technology, China
-- 2018.09 - 2024.07: M.ENG. in Software Engineering, Taiyuan University of Technology, China
-- 2024.09 - Present: Ph.D candidate in Computer Science and Technology, Taiyuan University of Technology, China
+- 2014.09 - 2018.06: B.ENG. in Software Engineering, Taiyuan University of Technology, China
+- 2018.09 - 2024.06: M.ENG. in Software Engineering, Taiyuan University of Technology, China
+- 2024.09 - 2025.06: Ph.D candidate in Computer Science and Technology, Taiyuan University of Technology, China
+- 2025.06 - present: Tenure-track Associate Professor in College of Artificial Intelligence, Taiyuan University of Technology, China 
 
 
 # 📝 Publications (First/Corresponding Author) 
