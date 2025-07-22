@@ -46,12 +46,21 @@ Pathological image analysis, Multimodal data analysis
 
 
 # 📝 Publications (First/Corresponding Author) 
+**2025:** 
 - [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang, Wen Zheng. Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation. Medical Image Analysis (**MedIA**). 2025. <font color=red>(SCI Q1-TOP)</font>
 - [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
-- [3] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu*, MIng Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
-- [4] **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou*, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2024. <font color=red>(SCI Q2-TOP)</font>
-- [5] **Xueyu Liu**, Yongfei Wu*, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, Hangbei Cheng, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou*, Wen Zheng. Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators. Computers in Biology and Medicine (**CIBM**). 2023. <font color=red>(SCI Q2)</font>
-- [6] **Xueyu Liu**, Ming Li, Yongfei Wu*, Yilin Chen, Fang Hao, Daoxiang Zhou, Chen Wang, Chuanfeng Ma, Guangze Shi, Xiaoshuang Zhou. An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method. AI Communications, 2022. <font color=red>(SCI Q4)</font>
+- [3] Le Han, Jianan Zhang, Yan Hu, **Xueyu Liu***, Guanghui Yue, Mingqiang Wei, Yongfei Wu*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
+
+**2024:** 
+- [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu*, MIng Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
+- [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou*, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2024. <font color=red>(SCI Q2-TOP)</font>
+
+
+**2023:** 
+- [1] **Xueyu Liu**, Yongfei Wu*, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, Hangbei Cheng, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou*, Wen Zheng. Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators. Computers in Biology and Medicine (**CIBM**). 2023. <font color=red>(SCI Q2)</font>
+
+**2022:** 
+- [1] **Xueyu Liu**, Ming Li, Yongfei Wu*, Yilin Chen, Fang Hao, Daoxiang Zhou, Chen Wang, Chuanfeng Ma, Guangze Shi, Xiaoshuang Zhou. An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method. AI Communications, 2022. <font color=red>(SCI Q4)</font>
 
 
 # 🎖 Certifications and Awards
