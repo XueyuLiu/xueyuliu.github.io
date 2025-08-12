@@ -45,9 +45,7 @@ Pathological image analysis, Multimodal data analysis
 - 2025.06 - present: Tenure-track Associate Professor in College of Artificial Intelligence, Taiyuan University of Technology, China 
 
 
-# 📝 Publications
-***First/Corresponding Author:***
-
+# 📝 Publications (First/Corresponding author)
 **2025:** 
 - [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang, Wen Zheng. Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation. Medical Image Analysis (**MedIA**). 2025. <font color=red>(SCI Q1-TOP)</font>
 - [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
