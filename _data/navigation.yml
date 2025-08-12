@@ -18,8 +18,8 @@ main:
   #   url: "/#-educations"
 
 
-   - title: "Certifications and Awards"
-     url: "/#-certifications-and-awards"
+  - title: "Certifications and Awards"
+    url: "/#-certifications-and-awards"
 
   # - title: "Projects"
   #   url: "/#-projects"
