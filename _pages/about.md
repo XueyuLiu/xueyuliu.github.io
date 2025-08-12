@@ -52,7 +52,7 @@ Pathological image analysis, Multimodal data analysis
 **2025:** 
 - [1] <b>Xueyu Liu</b>, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu*, Chen Wang, Wen Zheng. Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation. Medical Image Analysis (**MedIA**). 2025. <font color=red>(SCI Q1-TOP)</font>
 - [2] <b>Xueyu Liu</b>, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
-- [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu^{*}</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
+- [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu\*</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
 
 **2024:** 
 - [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu*, MIng Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
