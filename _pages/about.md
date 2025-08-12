@@ -55,7 +55,7 @@ Pathological image analysis, Multimodal data analysis
 - [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu\*</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
 
 **2024:** 
-- [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, MIng Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
+- [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
 - [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2024. <font color=red>(SCI Q2-TOP)</font>
 
 
