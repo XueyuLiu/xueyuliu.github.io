@@ -20,11 +20,12 @@ redirect_from:
 # **About Me**
 
 
-Xueyu Liu is currently a Tenure-track Associate Professor and Master's Supervisor at the College of Artificial Intelligence, Taiyuan University of Technology, China. He has published over ten papers in SCI journals and renowned conferences, including CVPR and MedIA.
+Xueyu Liu is currently a Tenure-track Associate Professor and Master’s Supervisor at the College of Artificial Intelligence, Taiyuan University of Technology, China. He has published more than ten papers in SCI-indexed journals and prestigious conferences such as CVPR and MedIA. He is a member of the Institute of Electrical and Electronics Engineers (IEEE), the China Computer Federation (CCF), the China Society of Image and Graphics (CSIG), and the Chinese Association for Artificial Intelligence (CAAI).
 
  
 
 Xueyu Liu's research focuses on computer vision and medical data analytics. His interests include foundation models, meta-learning, weakly supervised learning, and few-shot learning in computer vision, as well as pathological image analysis and multimodal data analysis in medical data analytics.
+
 
 
 
