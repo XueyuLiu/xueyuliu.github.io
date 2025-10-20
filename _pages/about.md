@@ -54,7 +54,7 @@ Pathological image analysis, Multimodal data analysis
 - [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng. Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation. Medical Image Analysis (**MedIA**). 2025. <font color=red>(SCI Q1-TOP)</font>
 - [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
 - [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu\*</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
-- [4] Guangze Shi, Ying Wang, Yongfei Wu\*, <b>Xueyu Liu\*</b>, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu and Mingqiang Wei. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2024. <font color=red>(SCI Q2-TOP)</font>
+- [4] Guangze Shi, Ying Wang, Yongfei Wu\*, <b>Xueyu Liu\*</b>, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu and Mingqiang Wei. Al-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2025. <font color=red>(SCI Q2-TOP)</font>
 
 
 **2024:** 
