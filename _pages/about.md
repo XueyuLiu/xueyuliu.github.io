@@ -69,11 +69,10 @@ Pathological image analysis, Multimodal data analysis
 - [1] **Xueyu Liu**, Ming Li, Yongfei Wu\*, Yilin Chen, Fang Hao, Daoxiang Zhou, Chen Wang, Chuanfeng Ma, Guangze Shi, Xiaoshuang Zhou. An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method. AI Communications, 2022. <font color=red>(SCI Q4)</font>
 
 
-# 🎖 Certifications and Awards
-- China International College Students Innovation Competition, 2024, <font color=red>National Second Prize</font>.
-- 7th China International College Students’ "Internet+" Innovation and Entrepreneurship Competition, 2023, <font color=red>National Third Prize</font>.
-- 12th "Challenge Cup" China College Students Entrepreneurship Competition, 2020, <font color=red>National Second Prize</font>.
-- "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, 2020, <font color=red>National Second Prize</font>.
+# 🎖 Academic Service
+- Youth Editorial Board Member, The Innovation Informatics</font>.
+- Executive Committee Member, Digital Medicine Branch, China Computer Federation (CCF)</font>.
+- Reviewer, CVPR, AAAI, J-BHI</font>.
 
 <!-- Google Analytics -->
 <script async src="https://xueyuliu.github.io/"></script>
