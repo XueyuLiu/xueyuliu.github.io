@@ -70,9 +70,9 @@ Pathological image analysis, Multimodal data analysis
 
 
 # 🎖 Academic Service
-- Youth Editorial Board Member, The Innovation Informatics</font>.
-- Executive Committee Member, Digital Medicine Branch, China Computer Federation (CCF)</font>.
-- Reviewer, CVPR, AAAI, J-BHI</font>.
+- Youth Editorial Board Member, <font color=red>The Innovation Informatics</font>.
+- Executive Committee Member, <font color=red>Digital Medicine Branch, China Computer Federation (CCF)</font>.
+- Reviewer, <font color=red>CVPR, AAAI, J-BHI</font>.
 
 <!-- Google Analytics -->
 <script async src="https://xueyuliu.github.io/"></script>
