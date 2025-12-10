@@ -55,7 +55,7 @@ Pathological image analysis, Multimodal data analysis
 - [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
 - [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu\*</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
 - [4] Guangze Shi, Ying Wang, Yongfei Wu\*, <b>Xueyu Liu\*</b>, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu and Mingqiang Wei. Al-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2025. <font color=red>(SCI Q2-TOP)</font>
-- [5] Jia Shen, Jun Zhang, <b>Xueyu Liu\*</b>, Guangze Shi, Fiexue Shao, Yongfei Wu\*. Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation, Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2025. <font color=red>(SCI Q2-TOP)</font>
+- [5] Jia Shen, Jun Zhang, <b>Xueyu Liu\*</b>, Guangze Shi, Fiexue Shao, Yongfei Wu\*. Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation, Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2025. <font color=red>(CCF C)</font>
 
 
 **2024:** 
