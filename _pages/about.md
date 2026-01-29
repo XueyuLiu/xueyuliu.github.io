@@ -26,17 +26,22 @@ He focuses on **Computer Vision** and **Medical Data Analytics**. He has publish
 He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
 <span class='anchor' id='news'></span>
+
 # 🔥 News
-- **[2025.11]** Qualified as a **Master's Supervisor**!
+- **[2025.12]** Qualified as a **Master's Supervisor**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 - **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
 - **[2025.02]** One paper accepted by **CVPR 2025**!
+
+<span class='anchor' id='research-interests'></span>
 
 # 🔬 Research Interests
 
 My research aims to bridge the gap between advanced AI models and clinical applications.
 * **Computer Vision:** Foundation Models, Meta-learning, Weakly Supervised Learning, Visual Prompt Learning.
 * **Medical Data Analytics:** Pathological Image Analysis (WSI), Multimodal Data Analysis.
+
+<span class='anchor' id='recruitment'></span>
 
 # 🎓 Recruitment
 
@@ -50,11 +55,13 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
     * Solid background in Mathematics and Coding (**Python/PyTorch** is a must).
     * Good English reading and writing skills.
 * **What I Offer:**
-    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing.
+    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing (手把手指导).
     * **Resources:** Sufficient GPU resources (e.g., A800/4090) for large-scale experiments.
     * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
 
-📧 **Contact:** If you are interested, please send your CV and transcripts to **liuxueyu@tyut.edu.cn**.
+📧 **Contact:** If you are interested, please send your CV and transcripts to **[Your Email Address]**.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -83,7 +90,7 @@ Le Han, Jianan Zhang, Yan Hu, **Xueyu Liu\***, Guanghui Yue, Mingqiang Wei, Yong
 * **[IEEE J-BHI] AI-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities**<br>
 Guangze Shi, Ying Wang, Yongfei Wu\*, **Xueyu Liu\***, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu, Mingqiang Wei.<br>
 *IEEE Journal of Biomedical and Health Informatics*, 2025.<br>
-<span style="color:red; font-weight:bold;">(SCI Q2, TOP)</span>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
 * **[PRCV] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation**<br>
 Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Hangbei Cheng, Yongfei Wu\*.<br>
@@ -99,7 +106,7 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 * **[IEEE J-BHI] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework**<br>
 **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng.<br>
 *IEEE Journal of Biomedical and Health Informatics*, 2024.<br>
-<span style="color:red; font-weight:bold;">(SCI Q2, TOP)</span>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
 ### Selected Prior Works
 * **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators**<br>
@@ -112,12 +119,16 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 *AI Communications*, 2022.<br>
 <span style="color:gray;">(SCI Q4)</span>
 
+<span class='anchor' id='experience'></span>
+
 # 💻 Experience
 
 * **2025.06 - Present**: **Associate Professor (Tenure-track)** *College of Artificial Intelligence, Taiyuan University of Technology*
 * **2024.09 - 2025.06**: **Ph.D. Candidate** *Taiyuan University of Technology* (Computer Science and Technology)
 * **2018.09 - 2024.06**: **M.Eng.** *Taiyuan University of Technology* (Software Engineering)
 * **2014.09 - 2018.06**: **B.Eng.** *Taiyuan University of Technology* (Software Engineering)
+
+<span class='anchor' id='academic-service'></span>
 
 # 🎖 Academic Service
 
