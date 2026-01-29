@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xueyu Liu (刘学宇)"
+excerpt: "Associate Professor at Taiyuan University of Technology"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,65 +17,85 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# **About Me**
+# 👨‍🏫 About Me
 
+**Xueyu Liu (刘学宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](http://ai.tyut.edu.cn/), China. 
 
-Xueyu Liu is currently a Tenure-track Associate Professor and Master’s Supervisor at the College of Artificial Intelligence, Taiyuan University of Technology, China. He has published more than ten papers in SCI-indexed journals and prestigious conferences such as CVPR and MedIA. He is a member of the Institute of Electrical and Electronics Engineers (IEEE), the China Computer Federation (CCF), the China Society of Image and Graphics (CSIG), and the Chinese Association for Artificial Intelligence (CAAI).
+He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **MedIA**, **MICCAI**, and **IEEE J-BHI**. 
 
- 
+He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
-Xueyu Liu's research focuses on computer vision and medical data analytics. His interests include foundation models, meta-learning, weakly supervised learning, and few-shot learning in computer vision, as well as pathological image analysis and multimodal data analysis in medical data analytics.
+# 🔥 News
+- **[2025.02]** One paper accepted by **CVPR 2025**!
+- **[2025.01]** One paper accepted by **MedIA (IF=10.9)**!
+- **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 
+# 🔬 Research Interests
 
-
-
-# 📜 Research Area
-- **Computer Vision:** 
-
-Foundation model, Meta-learning, Weakly supervised learning, Visual prompt learning
-
-- **Medical data analytics:**
-
-Pathological image analysis, Multimodal data analysis
-
-
-# 💻 Research Experiences
-- 2014.09 - 2018.06: B.ENG. in Software Engineering, Taiyuan University of Technology, China
-- 2018.09 - 2024.06: M.ENG. in Software Engineering, Taiyuan University of Technology, China
-- 2024.09 - 2025.06: Ph.D candidate in Computer Science and Technology, Taiyuan University of Technology, China
-- 2025.06 - present: Tenure-track Associate Professor in College of Artificial Intelligence, Taiyuan University of Technology, China 
-
+My research aims to bridge the gap between advanced AI models and clinical applications.
+* **Computer Vision:** Foundation Models, Meta-learning, Weakly Supervised Learning, Visual Prompt Learning.
+* **Medical Data Analytics:** Pathological Image Analysis (WSI), Multimodal Data Analysis.
 
 # 📝 Publications
 
-<big> __First/Corresponding author:__ </big>
+<div style="margin-bottom: 10px;">
+<span style="background-color: #f6f8fa; padding: 5px; border-radius: 5px; font-size: 0.9em;">
+Note: * indicates Corresponding Author.
+</span>
+</div>
 
-**2025:** 
-- [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng. Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation. Medical Image Analysis (**MedIA**). 2025. <font color=red>(SCI Q1-TOP)</font>
-- [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng. Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater. Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025. <font color=red>(CCF A)</font>
-- [3] Le Han, Jianan Zhang, Yan Hu, <b>Xueyu Liu\*</b>, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*. Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation, Engineering Applications of Artificial Intelligence (**EAAI**), 2025. <font color=red>(SCI Q1-TOP)</font>
-- [4] Guangze Shi, Ying Wang, Yongfei Wu\*, <b>Xueyu Liu\*</b>, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu and Mingqiang Wei. Al-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2025. <font color=red>(SCI Q2-TOP)</font>
-- [5] Jia Shen, Jun Zhang, <b>Xueyu Liu\*</b>, Yunfei Zhang, Guangze Shi, Fiexue Shao, Hangbei Cheng, Yongfei Wu\*. Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation, Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2025. <font color=red>(CCF C)</font>
+### 2025
+* **[MedIA] Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation** **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng.  
+    *Medical Image Analysis*, 2025.  
+    <span style="color:red; font-weight:bold;">(SCI Q1, TOP, IF=10.9)</span>
 
+* **[CVPR] Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater** **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng.  
+    *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2025.  
+    <span style="color:red; font-weight:bold;">(CCF-A)</span>
 
-**2024:** 
-- [1] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
-- [2] **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2024. <font color=red>(SCI Q2-TOP)</font>
+* **[EAAI] Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation** Le Han, Jianan Zhang, Yan Hu, **Xueyu Liu\***, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*.  
+    *Engineering Applications of Artificial Intelligence*, 2025.  
+    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
+* **[IEEE J-BHI] AI-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities** Guangze Shi, Ying Wang, Yongfei Wu\*, **Xueyu Liu\***, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu, Mingqiang Wei.  
+    *IEEE Journal of Biomedical and Health Informatics*, 2025.  
+    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
-**2023:** 
-- [1] **Xueyu Liu**, Yongfei Wu\*, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, Hangbei Cheng, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou*, Wen Zheng. Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators. Computers in Biology and Medicine (**CIBM**). 2023. <font color=red>(SCI Q2)</font>
+* **[PRCV] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation** Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Hangbei Cheng, Yongfei Wu\*.  
+    *Chinese Conference on Pattern Recognition and Computer Vision*, 2025.  
+    <span style="color:blue; font-weight:bold;">(CCF-C)</span>
 
-**2022:** 
-- [1] **Xueyu Liu**, Ming Li, Yongfei Wu\*, Yilin Chen, Fang Hao, Daoxiang Zhou, Chen Wang, Chuanfeng Ma, Guangze Shi, Xiaoshuang Zhou. An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method. AI Communications, 2022. <font color=red>(SCI Q4)</font>
+### 2024
+* **[MICCAI] Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation** **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng.  
+    *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 2024.  
+    <span style="color:blue; font-weight:bold;">(CCF-B, Top Conference in Medical AI)</span>
 
+* **[IEEE J-BHI] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework** **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng.  
+    *IEEE Journal of Biomedical and Health Informatics*, 2024.  
+    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
+
+### Selected Prior Works
+* **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators** **Xueyu Liu**, Yongfei Wu\*, et al.  
+    *Computers in Biology and Medicine*, 2023. <span style="color:red;">(SCI Q2)</span>
+
+* **[AI Comm] An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method** **Xueyu Liu**, Ming Li, Yongfei Wu\*, et al.  
+    *AI Communications*, 2022. <span style="color:gray;">(SCI Q4)</span>
+
+# 💻 Experience
+
+* **2025.06 - Present**: **Associate Professor (Tenure-track)** *College of Artificial Intelligence, Taiyuan University of Technology*
+* **2024.09 - 2025.06**: **Ph.D. Candidate** *Taiyuan University of Technology* (Computer Science and Technology)
+* **2018.09 - 2024.06**: **M.Eng.** *Taiyuan University of Technology* (Software Engineering)
+* **2014.09 - 2018.06**: **B.Eng.** *Taiyuan University of Technology* (Software Engineering)
 
 # 🎖 Academic Service
-- Youth Editorial Board Member, <font color=red>The Innovation Informatics</font>.
-- Executive Committee Member, <font color=red>Digital Medicine Branch, China Computer Federation (CCF)</font>.
-- Reviewer, <font color=red>CVPR, AAAI, J-BHI</font>.
 
-<!-- Google Analytics -->
+* **Editorial Board Member:** Youth Editorial Board, *The Innovation Informatics*.
+* **Committee Member:** Executive Committee, Digital Medicine Branch, China Computer Federation (CCF).
+* **Conference & Journal Reviewer:**
+    * CVPR, AAAI
+    * IEEE Journal of Biomedical and Health Informatics (J-BHI)
+
 <script async src="https://xueyuliu.github.io/"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -84,7 +104,3 @@ Pathological image analysis, Multimodal data analysis
 
   gtag('config', 'GA_MEASUREMENT_ID');
 </script>
-<!-- End Google Analytics -->
-
-
-
