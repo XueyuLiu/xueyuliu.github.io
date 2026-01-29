@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xueyu Liu (刘学宇)"
+title: "Xueyu Liu (刘雪宇)"
 excerpt: "Associate Professor at Taiyuan University of Technology"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🏫 About Me
 
-**Xueyu Liu (刘学宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](http://ai.tyut.edu.cn/), China. 
+**Xueyu Liu (刘雪宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](http://ai.tyut.edu.cn/), China. 
 
 He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **MedIA**, **MICCAI**, and **IEEE J-BHI**. 
 
@@ -93,7 +93,7 @@ Note: * indicates Corresponding Author.
 * **Editorial Board Member:** Youth Editorial Board, *The Innovation Informatics*.
 * **Committee Member:** Executive Committee, Digital Medicine Branch, China Computer Federation (CCF).
 * **Conference & Journal Reviewer:**
-    * CVPR, AAAI
+    * CVPR, AAAI, ICML, ECCV
     * IEEE Journal of Biomedical and Health Informatics (J-BHI)
 
 <script async src="https://xueyuliu.github.io/"></script>
