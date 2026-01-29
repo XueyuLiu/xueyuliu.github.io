@@ -19,15 +19,15 @@ redirect_from:
 
 # 👨‍🏫 About Me
 
-**Xueyu Liu (刘雪宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](http://ai.tyut.edu.cn/), China. 
+**Xueyu Liu (刘雪宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](https://tylgswyxgc.tyut.edu.cn/), China. 
 
 He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **MedIA**, **MICCAI**, and **IEEE J-BHI**. 
 
 He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
 # 🔥 News
+- **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
 - **[2025.02]** One paper accepted by **CVPR 2025**!
-- **[2025.01]** One paper accepted by **MedIA (IF=10.9)**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 
 # 🔬 Research Interests
@@ -35,6 +35,24 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 My research aims to bridge the gap between advanced AI models and clinical applications.
 * **Computer Vision:** Foundation Models, Meta-learning, Weakly Supervised Learning, Visual Prompt Learning.
 * **Medical Data Analytics:** Pathological Image Analysis (WSI), Multimodal Data Analysis.
+
+# 🎓 Recruitment
+
+I am actively looking for self-motivated **Master students** and **Ph.D. students (Co-advised)** to join my research group.
+
+* **Openings:**
+    * **Master Students:** I have quota for Master's students every year.
+    * **Ph.D. Students:** I assist in supervising Ph.D. students (co-advised with senior professors).
+* **Requirements:**
+    * Strong self-motivation and integrity.
+    * Solid background in Mathematics and Coding (**Python/PyTorch** is a must).
+    * Good English reading and writing skills.
+* **What I Offer:**
+    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing (手把手指导).
+    * **Resources:** Sufficient GPU resources (e.g., A800/4090) for large-scale experiments.
+    * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
+
+📧 **Contact:** If you are interested, please send your CV and transcripts to **[Your Email Address]**.
 
 # 📝 Publications
 
