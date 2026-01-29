@@ -28,7 +28,6 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 # 🔥 News
 - **[2025.11]** Qualified as a **Master's Supervisor**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
-- **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 - **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
 - **[2025.02]** One paper accepted by **CVPR 2025**!
 
