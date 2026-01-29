@@ -55,11 +55,11 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
     * Solid background in Mathematics and Coding (**Python/PyTorch** is a must).
     * Good English reading and writing skills.
 * **What I Offer:**
-    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing (手把手指导).
+    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing.
     * **Resources:** Sufficient GPU resources (e.g., A800/4090) for large-scale experiments.
     * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
 
-📧 **Contact:** If you are interested, please send your CV and transcripts to **[Your Email Address]**.
+📧 **Contact:** If you are interested, please send your CV and transcripts to liuxueyu@tyut.edu.cn.
 
 <span class='anchor' id='publications'></span>
 
