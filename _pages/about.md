@@ -59,7 +59,7 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
     * **Resources:** Sufficient GPU resources (e.g., A800/4090) for large-scale experiments.
     * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
 
-📧 **Contact:** If you are interested, please send your CV and transcripts to liuxueyu@tyut.edu.cn.
+📧 **Contact:** If you are interested, please send your CV and transcripts to my E-mail.
 
 <span class='anchor' id='publications'></span>
 
