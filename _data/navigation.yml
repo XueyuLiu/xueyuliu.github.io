@@ -3,26 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
-  # - title: "Research Area"
-  #  url: "/#-Research Area"
+  - title: "News"
+    url: "/#news"
 
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
+  - title: "Research Interests"
+    url: "/#research-interests"
+
+  - title: "Recruitment"
+    url: "/#recruitment"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Experience"
+    url: "/#experience"
 
-
-  - title: "Certifications and Awards"
-    url: "/#-certifications-and-awards"
-
-  # - title: "Projects"
-  #   url: "/#-projects"
-
-  # - title: "Reviewer"
-  #   url: "/#-reviewer"
+  - title: "Academic Service"
+    url: "/#academic-service"
