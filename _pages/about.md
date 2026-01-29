@@ -94,10 +94,12 @@ Note: * indicates Corresponding Author.
 
 ### Selected Prior Works
 * **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators** **Xueyu Liu**, Yongfei Wu\*, et al.  
-    *Computers in Biology and Medicine*, 2023. <span style="color:red;">(SCI Q2)</span>
+    *Computers in Biology and Medicine*, 2023.  
+    <span style="color:red;">(SCI Q2)</span>
 
 * **[AI Comm] An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method** **Xueyu Liu**, Ming Li, Yongfei Wu\*, et al.  
-    *AI Communications*, 2022. <span style="color:gray;">(SCI Q4)</span>
+    *AI Communications*, 2022.  
+    <span style="color:gray;">(SCI Q4)</span>
 
 # 💻 Experience
 
