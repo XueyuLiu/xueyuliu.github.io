@@ -48,11 +48,11 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
     * Solid background in Mathematics and Coding (**Python/PyTorch** is a must).
     * Good English reading and writing skills.
 * **What I Offer:**
-    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing (手把手指导).
+    * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing.
     * **Resources:** Sufficient GPU resources (e.g., A800/4090) for large-scale experiments.
     * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
 
-📧 **Contact:** If you are interested, please send your CV and transcripts to **[Your Email Address]**.
+📧 **Contact:** If you are interested, please send your CV and transcripts to **liuxueyu@tyut.edu.cn**.
 
 # 📝 Publications
 
@@ -63,43 +63,52 @@ Note: * indicates Corresponding Author.
 </div>
 
 ### 2025
-* **[MedIA] Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation** **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng.  
-    *Medical Image Analysis*, 2025.  
-    <span style="color:red; font-weight:bold;">(SCI Q1, TOP, IF=10.9)</span>
+* **[MedIA] Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation**<br>
+**Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng.<br>
+*Medical Image Analysis*, 2025.<br>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP, IF=10.9)</span>
 
-* **[CVPR] Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater** **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng.  
-    *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2025.  
-    <span style="color:red; font-weight:bold;">(CCF-A)</span>
+* **[CVPR] Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater**<br>
+**Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng.<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2025.<br>
+<span style="color:red; font-weight:bold;">(CCF-A)</span>
 
-* **[EAAI] Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation** Le Han, Jianan Zhang, Yan Hu, **Xueyu Liu\***, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*.  
-    *Engineering Applications of Artificial Intelligence*, 2025.  
-    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
+* **[EAAI] Multi-Task Cyclical Consistency Learning Based Medical Image Segmentation**<br>
+Le Han, Jianan Zhang, Yan Hu, **Xueyu Liu\***, Guanghui Yue, Mingqiang Wei, Yongfei Wu\*.<br>
+*Engineering Applications of Artificial Intelligence*, 2025.<br>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
-* **[IEEE J-BHI] AI-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities** Guangze Shi, Ying Wang, Yongfei Wu\*, **Xueyu Liu\***, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu, Mingqiang Wei.  
-    *IEEE Journal of Biomedical and Health Informatics*, 2025.  
-    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
+* **[IEEE J-BHI] AI-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities**<br>
+Guangze Shi, Ying Wang, Yongfei Wu\*, **Xueyu Liu\***, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu, Mingqiang Wei.<br>
+*IEEE Journal of Biomedical and Health Informatics*, 2025.<br>
+<span style="color:red; font-weight:bold;">(SCI Q2, TOP)</span>
 
-* **[PRCV] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation** Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Hangbei Cheng, Yongfei Wu\*.  
-    *Chinese Conference on Pattern Recognition and Computer Vision*, 2025.  
-    <span style="color:blue; font-weight:bold;">(CCF-C)</span>
+* **[PRCV] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation**<br>
+Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Hangbei Cheng, Yongfei Wu\*.<br>
+*Chinese Conference on Pattern Recognition and Computer Vision*, 2025.<br>
+<span style="color:blue; font-weight:bold;">(CCF-C)</span>
 
 ### 2024
-* **[MICCAI] Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation** **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng.  
-    *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 2024.  
-    <span style="color:blue; font-weight:bold;">(CCF-B, Top Conference in Medical AI)</span>
+* **[MICCAI] Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation**<br>
+**Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng.<br>
+*International Conference on Medical Image Computing and Computer-Assisted Intervention*, 2024.<br>
+<span style="color:blue; font-weight:bold;">(CCF-B, Top Conference in Medical AI)</span>
 
-* **[IEEE J-BHI] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework** **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng.  
-    *IEEE Journal of Biomedical and Health Informatics*, 2024.  
-    <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
+* **[IEEE J-BHI] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework**<br>
+**Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng.<br>
+*IEEE Journal of Biomedical and Health Informatics*, 2024.<br>
+<span style="color:red; font-weight:bold;">(SCI Q2, TOP)</span>
 
 ### Selected Prior Works
-* **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators** **Xueyu Liu**, Yongfei Wu\*, et al.  
-    *Computers in Biology and Medicine*, 2023.  
-    <span style="color:red;">(SCI Q2)</span>
+* **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators**<br>
+**Xueyu Liu**, Yongfei Wu\*, et al.<br>
+*Computers in Biology and Medicine*, 2023.<br>
+<span style="color:red;">(SCI Q2)</span>
 
-* **[AI Comm] An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method** **Xueyu Liu**, Ming Li, Yongfei Wu\*, et al.  
-    *AI Communications*, 2022.  
-    <span style="color:gray;">(SCI Q4)</span>
+* **[AI Comm] An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method**<br>
+**Xueyu Liu**, Ming Li, Yongfei Wu\*, et al.<br>
+*AI Communications*, 2022.<br>
+<span style="color:gray;">(SCI Q4)</span>
 
 # 💻 Experience
 
