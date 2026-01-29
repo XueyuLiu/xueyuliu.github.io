@@ -25,6 +25,7 @@ He focuses on **Computer Vision** and **Medical Data Analytics**. He has publish
 
 He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - **[2025.11]** Qualified as a **Master's Supervisor**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
