@@ -83,7 +83,7 @@ Note: * indicates Corresponding Author.
 * **[MedIA] Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation**<br>
 **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu\*, Chen Wang, Wen Zheng.<br>
 *Medical Image Analysis*, 2025.<br>
-<span style="color:red; font-weight:bold;">(SCI Q1, TOPW)</span>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
 * **[CVPR] Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater**<br>
 **Xueyu Liu**, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu\*, Wen Zheng.<br>
