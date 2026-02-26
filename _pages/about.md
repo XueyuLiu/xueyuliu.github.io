@@ -28,6 +28,7 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **[2026.02]** One paper accepted by **CVPR 2026**!
 - **[2025.12]** Qualified as a **Master's Supervisor**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 - **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
@@ -70,6 +71,13 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
 Note: * indicates Corresponding Author.
 </span>
 </div>
+
+### 2026
+* **[CVPR] Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model**<br>
+**Xueyu Liu**, Xiaoyi Zhang, Meilin Liu, Guangze Shi, Jia Shen, Yujie Wang, Cai Zhao, Ziyuan He, Yongfei Wu\*, Mingqiang Wei, Yongle Chen\*.<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.<br>
+<span style="color:red; font-weight:bold;">(CCF-A)</span>
+
 
 ### 2025
 * **[MedIA] Segment Any Tissue: One-Shot Reference Guided Training-Free Automatic Point Prompting for Medical Image Segmentation**<br>
