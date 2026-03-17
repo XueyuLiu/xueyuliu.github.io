@@ -132,8 +132,8 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 # 💻 Experience
 
 * **2025.06 - Present**: **Associate Professor (Tenure-track)** *College of Artificial Intelligence, Taiyuan University of Technology*
-* **2024.09 - 2025.06**: **Ph.D. Candidate** *Taiyuan University of Technology* (Computer Science and Technology)
-* **2018.09 - 2024.06**: **M.Eng.** *Taiyuan University of Technology* (Software Engineering)
+* **2021.09 - 2025.06**: **Ph.D. Candidate** *Taiyuan University of Technology* (Computer Science and Technology)
+* **2018.09 - 2021.06**: **M.Eng.** *Taiyuan University of Technology* (Software Engineering)
 * **2014.09 - 2018.06**: **B.Eng.** *Taiyuan University of Technology* (Software Engineering)
 
 <span class='anchor' id='academic-service'></span>
