@@ -82,7 +82,7 @@ Note: * indicates Corresponding Author.
 
 * **[CVPR Findings] Instruction-Focus-Prompt: Semantics-Driven Structural Prompts for Universal SAM Segmentation**<br>
 Shuqi Xia, Guangze Shi, Jiarui Cao, Aoyuan Shi, Meilin Liu, Xiaoyi Zhang, Yujie Wang, **Xueyu Liu\* (Lead Contact)**, Cai Zhao, Ziyuan He, Yongfei Wu, Mingqiang Wei\*.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings*, 2026.<br>
 <span style="color:red; font-weight:bold;"></span>
 
 
