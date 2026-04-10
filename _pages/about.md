@@ -21,6 +21,8 @@ redirect_from:
 
 **Xueyu Liu (刘雪宇)** is currently a **Tenure-track Associate Professor** and **Master’s Supervisor** at the [College of Artificial Intelligence, Taiyuan University of Technology](https://tylgswyxgc.tyut.edu.cn/), China. 
 
+He received his Ph.D. degree in Computer Science and Technology from Taiyuan University of Technology in 2025, where he was honored with the **Shanxi Provincial Outstanding Doctoral Dissertation Award**.
+
 He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **MedIA**, **MICCAI**, and **IEEE J-BHI**. 
 
 He serves as a member of IEEE, CCF, CSIG, and CAAI.
@@ -28,11 +30,11 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **[2026.03]** Honored with the **Shanxi Provincial Outstanding Doctoral Dissertation Award** (山西省优秀博士学位论文)! 🏆
 - **[2026.02]** One paper accepted by **CVPR 2026**!
 - **[2025.12]** Qualified as a **Master's Supervisor**!
 - **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 - **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
-- **[2025.02]** One paper accepted by **CVPR 2025**!
 
 <span class='anchor' id='research-interests'></span>
 
@@ -132,7 +134,8 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 # 💻 Experience
 
 * **2025.06 - Present**: **Associate Professor (Tenure-track)** *College of Artificial Intelligence, Taiyuan University of Technology*
-* **2021.09 - 2025.06**: **Ph.D. Candidate** *Taiyuan University of Technology* (Computer Science and Technology)
+* **2021.09 - 2025.06**: **Ph.D.** *Taiyuan University of Technology* (Computer Science and Technology)
+  * *Honors: Shanxi Provincial Outstanding Doctoral Dissertation (山西省优秀博士学位论文)*
 * **2018.09 - 2021.06**: **M.Eng.** *Taiyuan University of Technology* (Software Engineering)
 * **2014.09 - 2018.06**: **B.Eng.** *Taiyuan University of Technology* (Software Engineering)
 
