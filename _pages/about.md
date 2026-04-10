@@ -107,7 +107,8 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 *Chinese Conference on Pattern Recognition and Computer Vision*, 2025.<br>
 <span style="color:blue; font-weight:bold;">(CCF-C)</span>
 
-### 2024
+
+### Selected Prior Works
 * **[MICCAI] Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation**<br>
 **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu\*, Ming Li, Weixia Han, Wen Zheng.<br>
 *International Conference on Medical Image Computing and Computer-Assisted Intervention*, 2024.<br>
@@ -117,19 +118,6 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 **Xueyu Liu**, Rui Wang, Yexin Lai, Yongfei Wu\*, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou\*, Wen Zheng.<br>
 *IEEE Journal of Biomedical and Health Informatics*, 2024.<br>
 <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
-
-### Selected Prior Works
-* **[CIBM] Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators**<br>
-**Xueyu Liu**, Yongfei Wu\*, et al.<br>
-*Computers in Biology and Medicine*, 2023.<br>
-<span style="color:red;">(SCI Q2)</span>
-
-* **[AI Comm] An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method**<br>
-**Xueyu Liu**, Ming Li, Yongfei Wu\*, et al.<br>
-*AI Communications*, 2022.<br>
-<span style="color:gray;">(SCI Q4)</span>
-
-<span class='anchor' id='experience'></span>
 
 # 💻 Experience
 
