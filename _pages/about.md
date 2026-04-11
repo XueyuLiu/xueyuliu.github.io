@@ -124,6 +124,7 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 *IEEE Journal of Biomedical and Health Informatics*, 2024.<br>
 <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
 
+<span class='anchor' id='experience'></span>
 # 💻 Experience
 
 * **2025.06 - Present**: **Associate Professor (Tenure-track)** *College of Artificial Intelligence, Taiyuan University of Technology*
