@@ -23,7 +23,7 @@ redirect_from:
 
 He received his Ph.D. degree in Computer Science and Technology from Taiyuan University of Technology in 2025, where he was honored with the **Shanxi Provincial Outstanding Doctoral Dissertation Award**.
 
-He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **MedIA**, **MICCAI**, and **IEEE J-BHI**. 
+He focuses on **Computer Vision** and **Medical Data Analytics**. He has published more than ten papers in top-tier journals and prestigious conferences, including **CVPR**, **ICML**, **MICCAI** and **MedIA**. 
 
 He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
