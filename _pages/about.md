@@ -30,10 +30,9 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **[2026.02]** One paper accepted by **ICML 2026**!
 - **[2026.03]** Honored with the **Shanxi Provincial Outstanding Doctoral Dissertation Award** (山西省优秀博士学位论文)! 🏆
 - **[2026.02]** One paper accepted by **CVPR 2026**!
-- **[2025.12]** Qualified as a **Master's Supervisor**!
-- **[2025.06]** Joined Taiyuan University of Technology as an Associate Professor.
 - **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
 
 <span class='anchor' id='research-interests'></span>
