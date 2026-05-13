@@ -52,9 +52,11 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
 * **Openings:**
     * **Master Students:** I have quota for Master's students every year.
     * **Ph.D. Students:** I assist in supervising Ph.D. students (co-advised with senior professors).
+    * **Undergraduate Interns**: I welcome highly motivated undergraduate students who are interested in long-term research training and aiming for top-tier publications.
 * **Requirements:**
     * Strong self-motivation and integrity.
     * Solid background in Mathematics and Coding (**Python/PyTorch** is a must).
+    * Proficiency in **AI-assisted programming**: Candidates are expected to skillfully use AI coding tools (e.g., Claude Code, Cursor) to accelerate research implementation and improve code quality.
     * Good English reading and writing skills.
 * **What I Offer:**
     * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing.
