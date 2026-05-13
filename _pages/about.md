@@ -61,7 +61,7 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
 * **What I Offer:**
     * **Hands-on Guidance:** I work closely with students on idea discussion, coding, and paper writing.
     * **Resources:** Sufficient GPU resources (e.g., RTX6000pro/5090) for large-scale experiments.
-    * **Publications:** Aiming for top-tier venues (CVPR, MICCAI, MedIA).
+    * **Publications:** Aiming for top-tier venues (CCF-A, SCI-Q1).
 
 📧 **Contact:** If you are interested, please send your CV and transcripts to my E-mail.
 
@@ -81,6 +81,12 @@ Note: * indicates Corresponding Author.
 Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu Liu\* (Lead Contact)**, Rui Wang, Yongfei Wu\*, Mingqiang Wei\*.<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.<br>
 <span style="color:red; font-weight:bold;">(CCF-A)</span>
+
+* **[Review] Explainable ai in medicine: a comprehensive narrative review of methods, applications, and future directions**<br>
+Helin Wang, Guangze Shi, **Xueyu Liu\***, Jianan Zhang, Sheng Chen, Jiashuo Shi, Yuang Li, Guanghui Yue, Yongfei Wu\*.<br>
+*Expert System*, 2026.<br>
+<span style="color:red; font-weight:bold;"></span>
+
 
 * **[CVPR] Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model**<br>
 **Xueyu Liu**, Xiaoyi Zhang, Meilin Liu, Guangze Shi, Jia Shen, Yujie Wang, Cai Zhao, Ziyuan He, Yongfei Wu\*, Mingqiang Wei, Yongle Chen\*.<br>
