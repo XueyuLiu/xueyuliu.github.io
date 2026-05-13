@@ -75,7 +75,7 @@ Note: * indicates Corresponding Author.
 
 ### 2026
 
-* **[ICML] Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model**<br>
+* **[ICML] PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything**<br>
 Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu Liu\* (Lead Contact)**, Rui Wang, Yongfei Wu\*, Mingqiang Wei\*.<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.<br>
 <span style="color:red; font-weight:bold;">(CCF-A)</span>
