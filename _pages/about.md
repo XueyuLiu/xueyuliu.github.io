@@ -79,7 +79,7 @@ Note: * indicates Corresponding Author.
 
 * **[ICML] PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything**<br>
 Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu Liu\* (Lead Contact)**, Rui Wang, Yongfei Wu\*, Mingqiang Wei\*.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.<br>
+*Forty-third International Conference on Machine Learning*, 2026.<br>
 <span style="color:red; font-weight:bold;">(CCF-A)</span>
 
 * **[Review] Explainable ai in medicine: a comprehensive narrative review of methods, applications, and future directions**<br>
