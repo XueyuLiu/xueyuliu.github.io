@@ -77,7 +77,7 @@ Note: * indicates Corresponding Author.
 
 ### 2026
 
-* **[EAAI] Dual-stream attention-guided learning for weakly supervised whole slideimage classification**<br>
+* **[EAAI] Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**<br>
 Daoxi Cao, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, **Xueyu Liu\***, Yongfei Wu\*.<br>
 *Engineering Applications of Artificial Intelligence*, 2026.<br>
 <span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
@@ -87,7 +87,7 @@ Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu L
 *Forty-third International Conference on Machine Learning*, 2026.<br>
 <span style="color:red; font-weight:bold;">(CCF-A)</span>
 
-* **[Review] Explainable ai in medicine: a comprehensive narrative review of methods, applications, and future directions**<br>
+* **[Review] Explainable AI in Medicine: A Comprehensive Narrative Review of Methods, Applications, and Future directions**<br>
 Helin Wang, Guangze Shi, **Xueyu Liu\***, Jianan Zhang, Sheng Chen, Jiashuo Shi, Yuang Li, Guanghui Yue, Yongfei Wu\*.<br>
 *Expert System*, 2026.<br>
 <span style="color:red; font-weight:bold;"></span>
