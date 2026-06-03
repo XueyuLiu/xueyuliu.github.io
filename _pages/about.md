@@ -77,6 +77,11 @@ Note: * indicates Corresponding Author.
 
 ### 2026
 
+* **[EAAI] Dual-stream attention-guided learning for weakly supervised whole slideimage classification**<br>
+Daoxi Cao, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, **Xueyu Liu\***, Yongfei Wu\*.<br>
+*Engineering Applications of Artificial Intelligence*, 2026.<br>
+<span style="color:red; font-weight:bold;">(SCI Q1, TOP)</span>
+
 * **[ICML] PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything**<br>
 Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu Liu\* (Lead Contact)**, Rui Wang, Yongfei Wu\*, Mingqiang Wei\*.<br>
 *Forty-third International Conference on Machine Learning*, 2026.<br>
@@ -86,7 +91,6 @@ Guangze Shi, Yingjie Mi, Jia Shen, Feixue Shao, Jiarui Cao, Yexin Lai, **Xueyu L
 Helin Wang, Guangze Shi, **Xueyu Liu\***, Jianan Zhang, Sheng Chen, Jiashuo Shi, Yuang Li, Guanghui Yue, Yongfei Wu\*.<br>
 *Expert System*, 2026.<br>
 <span style="color:red; font-weight:bold;"></span>
-
 
 * **[CVPR] Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model**<br>
 **Xueyu Liu**, Xiaoyi Zhang, Meilin Liu, Guangze Shi, Jia Shen, Yujie Wang, Cai Zhao, Ziyuan He, Yongfei Wu\*, Mingqiang Wei, Yongle Chen\*.<br>
