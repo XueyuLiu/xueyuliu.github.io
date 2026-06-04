@@ -155,7 +155,7 @@ Jia Shen, Jun Zhang, **Xueyu Liu\***, Yunfei Zhang, Guangze Shi, Fiexue Shao, Ha
 # 🎖 Academic Service
 
 * **Editorial Board Member:** Youth Editorial Board, *The Innovation Informatics*.
-* **Committee Member:** Executive Committee, Digital Medicine Branch, China Computer Federation (CCF).
+* **Committee Member:** Executive Committee, Digital Medicine Branch of CCF, Medical Image Computing Seminar (MICS).
 * **Conference & Journal Reviewer:**
     * CVPR, AAAI, ICML, ECCV
     * IEEE Journal of Biomedical and Health Informatics (J-BHI)
