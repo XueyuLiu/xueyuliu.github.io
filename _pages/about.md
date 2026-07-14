@@ -77,6 +77,12 @@ Note: * indicates Corresponding Author.
 
 ### 2026
 
+* **[ACN MM] SemHyperSurv: A Hierarchical Semantics-guided Hypergraph Framework for Whole Slide Images based Survival Prediction**<br>
+Jianan Zhang, Shan Zhang, Xin Zhan, Haonan Chen, **Xueyu Liu\***, Junxin Chen, Mingqiang Wei, Yongfei Wu\*.<br>
+*34th ACM International Conference on Multimedia*, 2026.<br>
+<span style="color:red; font-weight:bold;">(CCF-A)</span>
+
+
 * **[EAAI] Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**<br>
 Daoxi Cao, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, **Xueyu Liu\***, Yongfei Wu\*.<br>
 *Engineering Applications of Artificial Intelligence*, 2026.<br>
