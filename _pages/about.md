@@ -71,7 +71,7 @@ I am actively looking for self-motivated **Master students** and **Ph.D. student
 
 <div style="margin-bottom: 10px;">
 <span style="background-color: #f6f8fa; padding: 5px; border-radius: 5px; font-size: 0.9em;">
-Note: * indicates the corresponding author. First and co-first authorship reflects substantial contributions to the work; authorship is **never assigned solely on the basis of supervision or seniority.**
+Note: * indicates the corresponding author. First and co-first authorship reflects substantial contributions to the work; authorship is never assigned solely on the basis of supervision or seniority.
 </span>
 </div>
 
