@@ -50,9 +50,8 @@ My research focuses on visual foundation models, generalizable segmentation, and
 <span class='anchor' id='research-projects'></span>
 # 💼 Research Projects
 
-* **2026 Shanxi Provincial Basic Research Program (Young Scientists Project)**
+* **2026 Shanxi Provincial Basic Research Program (Young Scientists Project)** *(PI)*
   * **Project Title:** *Multi-Agent Collaborative Segmentation for Visual Foundation Models* (面向视觉基础模型的多智能体协同分割方法研究)
-  * **Principal Investigator:** Xueyu Liu
 
 
 # 🎓 Recruitment
