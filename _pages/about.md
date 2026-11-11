@@ -30,10 +30,10 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **[2026.11]** Awarded a Young Scientists Project under the **2026 Shanxi Provincial Basic Research Program**!
 - **[2026.07]** One paper accepted by **ACM MM 2026**!
 - **[2026.05]** One paper accepted by **ICML 2026**!
 - **[2026.02]** One paper accepted by **CVPR 2026**!
-- **[2025.03]** One paper accepted by **MedIA (IF=10.9)**!
 
 <span class='anchor' id='research-interests'></span>
 
