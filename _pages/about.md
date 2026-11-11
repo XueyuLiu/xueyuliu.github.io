@@ -39,11 +39,21 @@ He serves as a member of IEEE, CCF, CSIG, and CAAI.
 
 # 🔬 Research Interests
 
-My research aims to bridge the gap between advanced AI models and clinical applications.
-* **Computer Vision:** Foundation Models, Meta-learning, Weakly Supervised Learning, Visual Prompt Learning.
-* **Medical Data Analytics:** Pathological Image Analysis (WSI), Multimodal Data Analysis.
+My research focuses on visual foundation models, generalizable segmentation, and intelligent visual analysis, with an emphasis on bridging advanced AI methodologies and real-world applications.
+
+- **Visual Foundation Models:** Prompt Learning and Optimization, Model Adaptation, Robust and Generalizable Segmentation, Capability Enhancement.
+- **Reasoning and Interactive Segmentation:** Vision-Language Reasoning, Gaze-Guided Segmentation, Agentic Visual Perception, Human-AI Interaction.
+- **Medical Image Analysis:** Computational Pathology (WSI), Medical Image Segmentation, Weakly Supervised Learning, Multimodal Medical Data Analysis.
 
 <span class='anchor' id='recruitment'></span>
+
+<span class='anchor' id='research-projects'></span>
+# 💼 Research Projects
+
+* **2026 Shanxi Provincial Basic Research Program (Young Scientists Project)**
+  * **Project Title:** *Multi-Agent Collaborative Segmentation for Visual Foundation Models* (面向视觉基础模型的多智能体协同分割方法研究)
+  * **Principal Investigator:** Xueyu Liu
+
 
 # 🎓 Recruitment
 
